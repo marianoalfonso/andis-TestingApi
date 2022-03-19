@@ -4,3 +4,5 @@ autor: Mariano Alfonso
 descripcion funcional: testea el estado de una API
 
 evolucionar para tomar parametros y generar testeos mas atomizados
+
+1. tomar la API como parametro (hoy esta harcodeada)
