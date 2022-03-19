@@ -1,0 +1,11 @@
+
+Pinging www.google.com [2800:3f0:4002:80f::2004] with 32 bytes of data:
+Reply from 2800:3f0:4002:80f::2004: time=53ms 
+Reply from 2800:3f0:4002:80f::2004: time=25ms 
+Reply from 2800:3f0:4002:80f::2004: time=24ms 
+Reply from 2800:3f0:4002:80f::2004: time=17ms 
+
+Ping statistics for 2800:3f0:4002:80f::2004:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 53ms, Average = 29ms

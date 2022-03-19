@@ -1,0 +1,4 @@
+plataforma: python 3.9
+fecha: 20220307
+autor: Mariano Alfonso
+descripcion funcional: testea el estado de una API
